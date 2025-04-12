@@ -21,7 +21,7 @@ A simple and interactive **Todo List App** built with **React** and **Tailwind C
 4. **Switch Views**: Use the **"Todo"** and **"Completed"** buttons  
 
 ## 🔥 Upcoming Features
-- [ ] **Dark Mode** 🌙  
+- [ ] **Switch Dark&Light Modes** 🌙  
 - [ ] **Drag & Drop** to reorder tasks  
 
 ## 💡 About Me
