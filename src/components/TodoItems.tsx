@@ -1,4 +1,3 @@
-import { useState, useEffect } from "react";
 import { FiTrash2 as Bin } from "react-icons/fi";
 import { IoMdCheckmark as CheckMark } from "react-icons/io";
 
