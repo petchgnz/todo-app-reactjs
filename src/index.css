@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-bg1: #2b2b2b;
+  --color-bg2: #464646;
+  --color-bg3: #686868;
+  --color-emr: #00bf6c;
+  --color-emr-dark: #009655;
+}
+
+.test {
+  background: #009655;
+}
+
+* {
+  @apply box-border
+}
