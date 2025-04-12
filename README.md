@@ -10,7 +10,7 @@ A simple and interactive **Todo List App** built with **React** and **Tailwind C
 
 ## 🛠️ Tech Stack
 - **Frontend**: React.js, Tailwind CSS  
-- **Icons**: React Icons (MdDeleteOutline, FaCheck)  
+- **Icons**: React Icons
 - **State Management**: React Hooks (`useState`, `useEffect`)  
 - **Data Persistence**: Local Storage  
 
